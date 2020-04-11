@@ -1,8 +1,9 @@
 .header {
-    margin-top: 4rem;
+    margin-top: 3rem;
     margin-bottom: 3rem;
     width: 100%;
     background-color: white;
+    padding: 1rem;
 }
 
 .section {
